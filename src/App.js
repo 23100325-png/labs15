@@ -126,6 +126,7 @@ return (
           <p>Prueba de SOftware</p>
       </header>
       <h1>Registro de Productos</h1>
+      <p>Laboratorio DevOps Testing - Validación mediante Pull Request</p>
       {submitting &&
        <div>
          Gracias por registrar la información del producto:
